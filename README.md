@@ -86,10 +86,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marava-tech&layout=compact&theme=react&hide_border=true&langs_count=6"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marava-tech&theme=react&hide_border=true"/>
-</p>
-
 ---
 
 <p align="center">
