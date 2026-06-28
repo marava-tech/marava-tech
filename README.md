@@ -71,7 +71,7 @@
 
 **[Ask RGV](https://askrgv.marava.tech)** — `Flutter` `Spring Boot` `Java` `OpenAI` `LLM`
 > AI clone of Ram Gopal Varma — ask anything in Telugu or English. Built from 95+ hours of Ramuism, books, and interviews. Not summaries — his exact words.
-> `AI-Powered` · `Telugu & English` · [Web](https://askrgv.marava.tech) · [Play Store](https://play.google.com/store/apps/details?id=tech.marava.askrgv) · [Backend](https://github.com/marava-tech/ask-rgv-backend)
+> `AI-Powered` · `Telugu & English` · [Play Store](https://play.google.com/store/apps/details?id=tech.marava.askrgv) · [Backend](https://github.com/marava-tech/ask-rgv-backend)
 
 **[GymPulse AI](https://play.google.com/store/apps/details?id=tech.marava.gympulse)** — `Flutter` `FastAPI` `Python` `PostgreSQL`
 > AI fitness companion — track workouts, calculate nutrition, manage supplement stack, and automate gym check-ins via Gym OS.
