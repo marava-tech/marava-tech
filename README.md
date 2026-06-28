@@ -61,11 +61,12 @@
 
 ### 🚀 Personal Projects
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| **[marava.tech](https://marava.tech)** | AI product suite — tools built for real use cases | Go, React, Claude API |
-| **ask-rgv** | RAG-based knowledge assistant with YouTube ingestion pipeline | Python, Vector DB, Claude |
-| **[blog.marava.tech](https://blog.marava.tech)** | Technical blog — system design, backend engineering, AI | Markdown, Cloudinary, REST |
+| Project | What it does | Stack | Links |
+|---------|-------------|-------|-------|
+| **Breakup Stories** | AI emotional support app — share your story, heal, get support in your language | Flutter, Spring Boot, Java, MongoDB, Gemini AI, OpenAI | [Play Store](https://play.google.com/store/apps/details?id=tech.marava.breakup) · [Blog](https://blog.marava.tech/blog/breakup-stories-the-app-for-when-you-re-not-fine-and-you-know-it) |
+| **Abhedyam** | Digital khata book for shopkeepers — customers, sales, payments, analytics in one app | Flutter, Spring Boot, Java, MySQL, Redis | [Play Store](https://play.google.com/store/apps/details?id=tech.marava.abhedyam) · [Blog](https://blog.marava.tech/blog/your-notebook-can-t-do-this-meet-abhedyam-khata-book) |
+| **Ask RGV** | AI clone of Ram Gopal Varma — ask anything in Telugu or English, built from 95+ hrs of content | Flutter, Spring Boot, Java, OpenAI, LLM | [Web](https://askrgv.marava.tech) · [Play Store](https://play.google.com/store/apps/details?id=tech.marava.askrgv) |
+| **GymPulse AI** | AI fitness companion — workouts, nutrition, supplement stack, smart gym check-ins | Flutter, FastAPI, Python, PostgreSQL | [Play Store](https://play.google.com/store/apps/details?id=tech.marava.gympulse) · [Blog](https://blog.marava.tech/blog/gympulse-the-ai-fitness-app-that-tracks-everything-you-always-forgot-to) |
 
 ---
 
