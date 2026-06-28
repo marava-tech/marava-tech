@@ -8,7 +8,7 @@
   <a href="mailto:kinneramadhu123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://madhukinnera.netlify.app/" target="_blank">
+  <a href="https://madhuk.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
   <a href="https://drive.google.com/file/d/1czFXtvFCmcfddYK3vTuQh_4mPYEGOP6G/view?usp=sharing" target="_blank">
