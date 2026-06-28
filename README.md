@@ -61,12 +61,21 @@
 
 ### 🚀 Personal Projects
 
-| Project | What it does | Stack | Links |
-|---------|-------------|-------|-------|
-| **Breakup Stories** | AI emotional support app — share your story, heal, get support in your language | Flutter, Spring Boot, Java, MongoDB, Gemini AI, OpenAI | [Play Store](https://play.google.com/store/apps/details?id=tech.marava.breakup) · [Blog](https://blog.marava.tech/blog/breakup-stories-the-app-for-when-you-re-not-fine-and-you-know-it) |
-| **Abhedyam** | Digital khata book for shopkeepers — customers, sales, payments, analytics in one app | Flutter, Spring Boot, Java, MySQL, Redis | [Play Store](https://play.google.com/store/apps/details?id=tech.marava.abhedyam) · [Blog](https://blog.marava.tech/blog/your-notebook-can-t-do-this-meet-abhedyam-khata-book) |
-| **Ask RGV** | AI clone of Ram Gopal Varma — ask anything in Telugu or English, built from 95+ hrs of content | Flutter, Spring Boot, Java, OpenAI, LLM | [Web](https://askrgv.marava.tech) · [Play Store](https://play.google.com/store/apps/details?id=tech.marava.askrgv) |
-| **GymPulse AI** | AI fitness companion — workouts, nutrition, supplement stack, smart gym check-ins | Flutter, FastAPI, Python, PostgreSQL | [Play Store](https://play.google.com/store/apps/details?id=tech.marava.gympulse) · [Blog](https://blog.marava.tech/blog/gympulse-the-ai-fitness-app-that-tracks-everything-you-always-forgot-to) |
+**[Breakup Stories](https://play.google.com/store/apps/details?id=tech.marava.breakup)** — `Flutter` `Spring Boot` `MongoDB` `Gemini AI` `OpenAI`
+> AI emotional support app — share your story, listen to others heal, get AI-powered support in your language.
+> `500+ Downloads` · [Play Store](https://play.google.com/store/apps/details?id=tech.marava.breakup) · [Blog](https://blog.marava.tech/blog/breakup-stories-the-app-for-when-you-re-not-fine-and-you-know-it)
+
+**[Abhedyam](https://play.google.com/store/apps/details?id=tech.marava.abhedyam)** — `Flutter` `Spring Boot` `Java` `MySQL` `Redis`
+> Digital khata book for shopkeepers — manage customers, products, sales, payments, and analytics. Includes a companion customer app.
+> `100+ Daily Active Users` · [Play Store](https://play.google.com/store/apps/details?id=tech.marava.abhedyam) · [Blog](https://blog.marava.tech/blog/your-notebook-can-t-do-this-meet-abhedyam-khata-book)
+
+**[Ask RGV](https://askrgv.marava.tech)** — `Flutter` `Spring Boot` `Java` `OpenAI` `LLM`
+> AI clone of Ram Gopal Varma — ask anything in Telugu or English. Built from 95+ hours of Ramuism, books, and interviews. Not summaries — his exact words.
+> `AI-Powered` · `Telugu & English` · [Web](https://askrgv.marava.tech) · [Play Store](https://play.google.com/store/apps/details?id=tech.marava.askrgv)
+
+**[GymPulse AI](https://play.google.com/store/apps/details?id=tech.marava.gympulse)** — `Flutter` `FastAPI` `Python` `PostgreSQL`
+> AI fitness companion — track workouts, calculate nutrition, manage supplement stack, and automate gym check-ins via Gym OS.
+> `Calorie & Tare Weight Tracking` · `Supplement Stack` · [Play Store](https://play.google.com/store/apps/details?id=tech.marava.gympulse) · [Blog](https://blog.marava.tech/blog/gympulse-the-ai-fitness-app-that-tracks-everything-you-always-forgot-to)
 
 ---
 
