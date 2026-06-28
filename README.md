@@ -69,7 +69,7 @@
 > Digital khata book for shopkeepers — manage customers, products, sales, payments, and analytics. Includes a companion customer app.
 > `100+ Daily Active Users` · [Play Store](https://play.google.com/store/apps/details?id=tech.marava.abhedyam) · [Backend](https://github.com/marava-tech/abhedyam-backend) · [Blog](https://blog.marava.tech/blog/your-notebook-can-t-do-this-meet-abhedyam-khata-book)
 
-**[Ask RGV](https://askrgv.marava.tech)** — `Flutter` `Spring Boot` `Java` `OpenAI` `LLM`
+**[Ask RGV](https://play.google.com/store/apps/details?id=tech.marava.askrgv)** — `Flutter` `FastAPI` `Python` `OpenAI` `LLM`
 > AI clone of Ram Gopal Varma — ask anything in Telugu or English. Built from 95+ hours of Ramuism, books, and interviews. Not summaries — his exact words.
 > `AI-Powered` · `Telugu & English` · [Play Store](https://play.google.com/store/apps/details?id=tech.marava.askrgv) · [Backend](https://github.com/marava-tech/ask-rgv-backend)
 
